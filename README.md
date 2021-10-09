@@ -1,6 +1,6 @@
 # Spark-and-Python-for-Big-Data-with-PySpark
 Udemy Cercitification - Training + Project
-1 - Manipulate and word abd DataBricks (Setup + Creating Cluster, ....)
+-1 Manipulate and word abd DataBricks (Setup + Creating Cluster, ....)
 2- AWS EC2 ( Training + setUp )
 3- AWS EMR ( Cluster Set UP + Training )
 4- Training on Spark DataFrame (Operation, GroupBy, AGG, Missing Value , normalization, Transform Categorical features, Dates and Timestamps) 
