@@ -8,7 +8,7 @@ Udemy Cercitification - Training + Project
 (Random Forest, Logistic Regression, Linear Regression ,... ) and Unsupervised Learning ( Kmeans ). training + Simple project.
 ###### -Training on the recommendation system basic by using ALS algorithm but we can go further using SVD , SVD ++ to solve like Netflix Recommendation Prize.
 ###### -Natural Language Processing  (Training + Spam Detector as project ) using PySpark and Mlib and the different NLP tool for the processing in Spark.
-###### -Spark Streaming with Python. (training through a simple Stream examppe, then finishsh the chapter with Twitter Analysis Project (Visualization libraires))
+###### -Spark Streaming with Python. (training through a simple Stream examppe, then finishsh the chapter with Twitter Analysis Project  using tweepy (Visualization libraires)) doing such like scraping data in twitter
 
 
 ## For more details:
